@@ -49,5 +49,5 @@ I recently restructured this entire GitHub account using [Claude Code](https://c
 
 I'm open to internship opportunities and collaboration. Feel free to reach out.
 
-- Linkedin: [Lana Mirkov]([https://github.com/llanabanana](https://www.linkedin.com/in/lana-mirkov-64b774300/))
+- Linkedin: [@Lana Mirkov]([https://github.com/llanabanana](https://www.linkedin.com/in/lana-mirkov-64b774300/))
 - University: FTN, University of Novi Sad (SIIT)
